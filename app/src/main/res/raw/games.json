@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "The Witcher 3: Wild Hunt",
+    "description": "As a professional monster slayer, track down the child of prophecy in a vast open world.",
+    "studio": "CD Projekt Red",
+    "platforms": ["PC", "PlayStation", "Xbox", "Switch"],
+    "genres": ["RPG", "Open World"],
+    "stores": ["Steam", "GOG"],
+    "rating": 4.8,
+    "imageUrl": "ic_game_placeholder",
+    "screenshots": ["ic_game_placeholder"]
+  },
+  {
+    "id": "2",
+    "name": "Stardew Valley",
+    "description": "Turn your overgrown field into a thriving farm in this relaxing country life RPG.",
+    "studio": "ConcernedApe",
+    "platforms": ["PC", "Mobile", "Switch"],
+    "genres": ["Farming", "Simulation"],
+    "stores": ["Steam", "Play Store"],
+    "rating": 4.9,
+    "imageUrl": "ic_game_placeholder",
+    "screenshots": ["ic_game_placeholder"]
+  },
+  {
+    "id": "3",
+    "name": "Hades",
+    "description": "Defy the god of death in this rogue-like dungeon crawler from the underworld.",
+    "studio": "Supergiant Games",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "genres": ["Action", "Roguelike"],
+    "stores": ["Steam", "Epic"],
+    "rating": 4.7,
+    "imageUrl": "ic_game_placeholder",
+    "screenshots": ["ic_game_placeholder"]
+  },
+  {
+    "id": "4",
+    "name": "Celeste",
+    "description": "Help Madeline survive her journey up Celeste Mountain in this precision platformer.",
+    "studio": "Maddy Makes Games",
+    "platforms": ["PC", "Switch"],
+    "genres": ["Platformer", "Indie"],
+    "stores": ["Steam", "eShop"],
+    "rating": 4.8,
+    "imageUrl": "ic_game_placeholder",
+    "screenshots": ["ic_game_placeholder"]
+  },
+  {
+    "id": "5",
+    "name": "Portal 2",
+    "description": "Solve physics puzzles with a portal gun in this acclaimed dark comedy puzzle game.",
+    "studio": "Valve",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "genres": ["Puzzle", "FPS"],
+    "stores": ["Steam"],
+    "rating": 4.9,
+    "imageUrl": "ic_game_placeholder",
+    "screenshots": ["ic_game_placeholder"]
+  }
+]
