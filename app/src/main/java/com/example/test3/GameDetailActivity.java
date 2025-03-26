@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
-
+import com.example.test3.utils.WishlistManager;
 import com.example.test3.models.Game;
 import com.example.test3.utils.WishlistManager;
 import com.google.android.material.chip.Chip;
