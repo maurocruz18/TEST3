@@ -27,6 +27,10 @@ public class GameDetailActivity extends AppCompatActivity {
         setContentView(R.layout.activity_game_detail);
 
         currentGame = (Game) getIntent().getSerializableExtra("game");
+        if (currentGame == null) {
+            finish(); // Close activity if no game data
+            return;
+        }
 
         // Initialize views
         ImageView gameImage = findViewById(R.id.game_image);
