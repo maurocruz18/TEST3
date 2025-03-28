@@ -19,12 +19,14 @@ public class GameDetailActivity extends AppCompatActivity {
 
     private boolean isInWishlist = false;
     private Game currentGame;
-    Button wishlistButton = findViewById(R.id.wishlist_button);
+    Button wishlistButton;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_game_detail);
+        wishlistButton = findViewById(R.id.wishlist_button);
 
         currentGame = (Game) getIntent().getSerializableExtra("game");
         if (currentGame == null) {
